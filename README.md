@@ -23,7 +23,6 @@ Power BI, Power Query, DAX
 
 ## 📁 Files
 - `netflix.png` — dashboard screenshot
-- *(add your `.pbix` file here if you'd like to upload it)*
 
 ## 🔗 Contact
 📧 fernandesclancy17@gmail.com
